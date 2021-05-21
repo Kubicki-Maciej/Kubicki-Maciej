@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kubicki-Maciej
-- 👀 I’m interested in programing, gaming aslo like sports.
+- 👀 I’m interested in programing and gaming.
 - 🌱 I’m currently learning Python, Web(Html,Css), JS, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? mail me dev.kubicki@gmail.com
